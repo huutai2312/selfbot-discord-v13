@@ -1,0 +1,9 @@
+.history
+
+node_modules
+
+.env
+
+discord.js-selfbot-v13
+
+package-lock.json
